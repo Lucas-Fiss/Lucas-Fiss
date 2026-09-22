@@ -48,7 +48,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🚀 What I Do<br>* Design and develop RESTful APIs using FastAPI and Spring Boot<br>* Develop microservices with API Gateway<br>* Develop backend systems with Python and Java<br>* Work with relational databases (PostgreSQL, MySQL)<br>* Write clean, maintainable, and well-tested backend code</h3>
+<h3 data-importer="text" align="left">🚀 What I Do<br>* Design and develop RESTful APIs using FastAPI and Spring Boot<br>* Develop backend systems with Python and Java<br>* Work with relational databases (PostgreSQL, MySQL)<br>* Write clean, maintainable, and well-tested backend code</h3>
 
 ###
 
